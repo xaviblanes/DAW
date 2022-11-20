@@ -1,0 +1,105 @@
+Mòdul professional: Llenguatges de Marques i Sistemes de Gestió
+d’Informació
+Codi: 0373
+Duració: 96 hores
+---------------------------------------------------------------
+Continguts:
+---------------------------------------------------------------
+
+1. Reconeixement de les característiques dels llenguatges de marques:
+− Concepte de llenguatge de marques.
+− Avantatges. Necessitat d’ús.
+− Característiques comunes.
+− Identificació d’àmbits d’aplicació.
+− Classificació.
+− XML: estructura i sintaxi.
+− Etiquetes.
+− Ferramentes d’edició.
+− Elaboració de documents XML ben formats.
+− Utilització d’espais de noms en XML.
+
+2. Utilització de llenguatges de marques en entorns web:
+− HTML: estructura d’una pàgina web.
+− Identificació d’etiquetes i atributs d’HTML.
+− XHTML: diferències sintàctiques i estructurals amb HTML.
+− Avantatges d’XHTML sobre HTML.
+− Versions d’HTML i d’XHTML.
+− Conversió d’HTML a XHTML.
+− Ferramentes de disseny web.
+− Transmissió d’informació per mitjà de llenguatges de marques.
+− Fulls d’estil.
+− Aspectes bàsics, propietats, CSS dinàmic.
+
+3. Aplicació dels llenguatges de marques a la sindicació de continguts:
+− Característiques de la sindicació de continguts.
+− Avantatges.
+− Àmbits d’aplicació.
+− Estructura dels canals de continguts.
+− Funcionalitat i accés.
+− Tecnologies de creació de canals de continguts: canals: RSS, ATOM, etc.
+− Validació.
+− Utilització de ferramentes.
+− directoris de canals de continguts.
+− Agregació.
+
+4. Definició d’esquemes i vocabularis en XML:
+− Definició de l’estructura i la sintaxi de documents XML.
+− XML: estructura i sintaxi.
+− Etiquetes.
+− Ferramentes d’edició.
+− Elaboració de documents XML favorits i ben formats.
+− Utilització d’espais de noms en XML.
+− Definició, referenciació i prefixos.
+− Avantatges d’utilització d’espais de noms.
+− Etiquetes, instruccions de processament, referència a entitats, declaració de tipus de document.
+− Utilització de mètodes de definició de documents XML.
+− Creació de descripcions.
+− Associació de descriptors amb documents XML.
+− Validació.
+− Ferramentes de creació i validació.
+− Extensibilitat dels esquemes. Tipus derivats. Esquemes múltiples documents.
+− Documentació d’especificacions.
+
+5. Conversió i adaptació de documents XML:
+− Transformació de documents XML. Justificació.
+− Tècniques de transformació de documents XML.
+− Format de documents: XSLT, XPATH.
+− Enllaç de documents: XLINK.
+− Formats d’eixida.
+− Àmbits d’aplicació.
+− Descripció de l’estructura i de la sintaxi.
+− Utilització de plantilles.
+− Beneficis de l’ús de plantilles.
+− Format de plantilles.
+− Utilització de ferramentes de processament.
+− Ús de plantilles en el context actual.
+− Verificació del resultat.
+− Depuració.
+− Elaboració de documentació
+
+6. Emmagatzemament d’informació:
+− Utilització d’XML per a l’emmagatzemament d’informació.
+− Mètodes d’emmagatzemament d’informació.
+− Àmbits d’aplicació.
+− Avantatges i inconvenients.
+− Sistemes d’emmagatzemament d’informació.
+− Inserció i extracció d’informació en XML.
+− Tècniques de cerca d’informació en documents XML.
+− Manipulació d’informació en format XML.
+− Llenguatges de consulta i manipulació.
+− Emmagatzemament XML natiu.
+− Ferramentes de tractament i emmagatzemament d’informació en format XML.
+
+7. Sistemes de gestió empresarial:
+− Aplicacions de gestió empresarial. Característiques.
+− Instal·lació.
+− Identificació de fluxos d’informació.
+− Adaptació i configuració.
+− Integració de mòduls.
+− Elaboració d’informes.
+− Planificació de la seguretat.
+− Implantació i verificació de la seguretat.
+− Integració amb aplicacions ofimàtiques.
+− Exportació d’informació.
+− Elaboració de documentació d’exportació.
+− Resolució d’incidències.
